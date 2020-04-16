@@ -2,30 +2,30 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Hack De Wereld on HackDeWereld</title>
-    <link>https://www.hackdewereld.nl/</link>
+    <link>https://hackdewereld.nl/</link>
     <description>Recent content in Hack De Wereld on HackDeWereld</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Mon, 26 Jun 2017 18:27:58 +0100</lastBuildDate>
     
-	<atom:link href="https://www.hackdewereld.nl/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://hackdewereld.nl/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>About</title>
-      <link>https://www.hackdewereld.nl/about/</link>
+      <link>https://hackdewereld.nl/about/</link>
       <pubDate>Thu, 16 Apr 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://www.hackdewereld.nl/about/</guid>
+      <guid>https://hackdewereld.nl/about/</guid>
       <description>We are a community of Dutch cyber security professionals and enthusiasts that get together once per month to hack boxes and discuss hacking techniques.</description>
     </item>
     
     <item>
       <title>The first Wednesday Hackday meetup</title>
-      <link>https://www.hackdewereld.nl/posts/first-meetup/</link>
+      <link>https://hackdewereld.nl/posts/first-meetup/</link>
       <pubDate>Thu, 16 Apr 2020 00:00:00 +0200</pubDate>
       
-      <guid>https://www.hackdewereld.nl/posts/first-meetup/</guid>
+      <guid>https://hackdewereld.nl/posts/first-meetup/</guid>
       <description>Last night we had our first official Wednesday Hackday meetup. It was a great success with 25 people showing up to learn about Hack The Box and hacking in general. The meetup was Virtual due to the Corona Measures in place across the country.
 The meetup started with some introductions and a getting started message by Sotiria from Hack The Box. It is great to be part of the Hack The Box family of meetups.</description>
     </item>
