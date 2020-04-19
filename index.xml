@@ -12,22 +12,22 @@
     
     
     <item>
+      <title>The first Wednesday Hackday meetup</title>
+      <link>https://hackdewereld.nl/posts/first-meetup/</link>
+      <pubDate>Thu, 16 Apr 2020 10:25:00 +0200</pubDate>
+      
+      <guid>https://hackdewereld.nl/posts/first-meetup/</guid>
+      <description>Last night we had our first official Wednesday Hackday meetup. It was a great success with 25 people showing up to learn about Hack The Box and hacking in general. The meetup was Virtual due to the Corona Measures in place across the country.
+The meetup started with some introductions and a getting started message by Sotiria from Hack The Box. It is great to be part of the Hack The Box family of meetups.</description>
+    </item>
+    
+    <item>
       <title>About</title>
       <link>https://hackdewereld.nl/about/</link>
       <pubDate>Thu, 16 Apr 2020 00:00:00 +0000</pubDate>
       
       <guid>https://hackdewereld.nl/about/</guid>
-      <description>We are a community of Dutch cyber security professionals and enthusiasts that get together once per month to hack boxes and discuss hacking techniques.</description>
-    </item>
-    
-    <item>
-      <title>The first Wednesday Hackday meetup</title>
-      <link>https://hackdewereld.nl/posts/first-meetup/</link>
-      <pubDate>Thu, 16 Apr 2020 00:00:00 +0200</pubDate>
-      
-      <guid>https://hackdewereld.nl/posts/first-meetup/</guid>
-      <description>Last night we had our first official Wednesday Hackday meetup. It was a great success with 25 people showing up to learn about Hack The Box and hacking in general. The meetup was Virtual due to the Corona Measures in place across the country.
-The meetup started with some introductions and a getting started message by Sotiria from Hack The Box. It is great to be part of the Hack The Box family of meetups.</description>
+      <description>We are a community of Dutch cyber security professionals and enthusiasts that get together once per month to hack boxes and discuss hacking techniques. We are based in The Netherlands.</description>
     </item>
     
   </channel>
