@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Posts on HackDeWereld</title>
@@ -6,10 +6,20 @@
     <description>Recent content in Posts on HackDeWereld</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 16 Apr 2020 10:25:00 +0200</lastBuildDate>
+    <lastBuildDate>Wed, 20 May 2020 11:01:00 +0200</lastBuildDate>
     
 	<atom:link href="https://hackdewereld.nl/posts/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Just Enough Reverse Engineering</title>
+      <link>https://hackdewereld.nl/posts/just-enough-reverse-engineering/</link>
+      <pubDate>Wed, 20 May 2020 11:01:00 +0200</pubDate>
+      
+      <guid>https://hackdewereld.nl/posts/just-enough-reverse-engineering/</guid>
+      <description>The 2nd meetup will be later today. The theme for the meetup is Reverse Engineering and it will start with a presentation to get you started in this exciting field.
+The presentation will be recorded and will be added to the site, but for now you can already download the slide deck for this meetup here!</description>
+    </item>
     
     <item>
       <title>The first Wednesday Hackday meetup</title>
