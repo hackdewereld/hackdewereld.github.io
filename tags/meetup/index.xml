@@ -6,10 +6,20 @@
     <description>Recent content in meetup on HackDeWereld</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 16 Apr 2020 10:25:00 +0200</lastBuildDate>
+    <lastBuildDate>Wed, 20 May 2020 11:01:00 +0200</lastBuildDate>
     
 	<atom:link href="https://hackdewereld.nl/tags/meetup/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>0x02 Just Enough Reverse Engineering</title>
+      <link>https://hackdewereld.nl/posts/just-enough-reverse-engineering/</link>
+      <pubDate>Wed, 20 May 2020 11:01:00 +0200</pubDate>
+      
+      <guid>https://hackdewereld.nl/posts/just-enough-reverse-engineering/</guid>
+      <description>We had our 2nd meetup last night. Again a large group of Hack The Box friends showed up and we had a great time! We hit a milestone just before the meeting with a whopping 300 members in our Hack The Box NL group on meetup.com.
+The theme for the meetup was Reverse Engineering. There was a presentation by Arjen on getting started with the reverse engineering challenges on Hack The Box.</description>
+    </item>
     
     <item>
       <title>The first Wednesday Hackday meetup</title>
