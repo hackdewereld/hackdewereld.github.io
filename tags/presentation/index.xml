@@ -6,10 +6,20 @@
     <description>Recent content in presentation on HackDeWereld</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 20 May 2020 11:01:00 +0200</lastBuildDate>
+    <lastBuildDate>Wed, 17 Jun 2020 22:43:00 +0200</lastBuildDate>
     
 	<atom:link href="https://hackdewereld.nl/tags/presentation/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>0x03 And we start our journey</title>
+      <link>https://hackdewereld.nl/posts/0x03-we-start-our-journey/</link>
+      <pubDate>Wed, 17 Jun 2020 22:43:00 +0200</pubDate>
+      
+      <guid>https://hackdewereld.nl/posts/0x03-we-start-our-journey/</guid>
+      <description>The June meetup is a wrap! Our community is growing and we are getting to know each other quite well. A very cool thing to see is that the same people keep showing up, most have been around since the 1st meetup back in April!
+The meetup started off with a presentation by Leandro (ceso). After passing his OSCP certification last month I asked him to share some of his thoughts on what you should do to get started.</description>
+    </item>
     
     <item>
       <title>0x02 Just Enough Reverse Engineering</title>
