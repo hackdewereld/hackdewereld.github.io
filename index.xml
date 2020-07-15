@@ -12,6 +12,16 @@
     
     
     <item>
+      <title>0x04 CVE hunting, Queries and Miffy</title>
+      <link>https://hackdewereld.nl/posts/0x04-cve-queries-miffy/</link>
+      <pubDate>Wed, 15 Jul 2020 23:10:00 +0200</pubDate>
+      
+      <guid>https://hackdewereld.nl/posts/0x04-cve-queries-miffy/</guid>
+      <description>The July meetup is a wrap! Our 4th corona time online meetup was another great success. We had 45 participants showing up to listen to a great talk about CVE hunting, hacking along with one of the medium difficulty machines and finishing off with the reading of Miffy at the Zoo.
+CVE Hunting Melvin gave his first public presentation today. He just finished his OSWE certification and in the process found a CVE in an open source project.</description>
+    </item>
+    
+    <item>
       <title>Code of Conduct</title>
       <link>https://hackdewereld.nl/codeofconduct/</link>
       <pubDate>Sun, 21 Jun 2020 00:00:00 +0000</pubDate>
