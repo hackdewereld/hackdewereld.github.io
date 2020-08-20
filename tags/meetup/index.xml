@@ -6,10 +6,16 @@
     <description>Recent content in meetup on HackDeWereld</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 15 Jul 2020 23:10:00 +0200</lastBuildDate>
-    
-	<atom:link href="https://hackdewereld.nl/tags/meetup/index.xml" rel="self" type="application/rss+xml" />
-    
+    <lastBuildDate>Thu, 20 Aug 2020 16:24:00 +0200</lastBuildDate><atom:link href="https://hackdewereld.nl/tags/meetup/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>0x05 HTB Content Creation</title>
+      <link>https://hackdewereld.nl/posts/0x05-htb-content-creation/</link>
+      <pubDate>Thu, 20 Aug 2020 16:24:00 +0200</pubDate>
+      
+      <guid>https://hackdewereld.nl/posts/0x05-htb-content-creation/</guid>
+      <description>Vacation time is over, but we are still all at home due to the Corona Virus. This does not stop us from having yet another great meetup! 45 people gathered to listen to a great talk / Q&amp;amp;A and competed in a game of trivia with amazing prizes. The night was closed out with the traditional reading of a Miffy story.
+Ian Austin / egre55   Ian talked to us about the thoughts behind content development at Hack The Box.</description>
+    </item>
     
     <item>
       <title>0x04 CVE hunting, Queries and Miffy</title>
