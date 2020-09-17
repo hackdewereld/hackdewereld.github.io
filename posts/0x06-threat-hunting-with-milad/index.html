@@ -6,7 +6,7 @@
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
 
   <meta name="generator" content="Hugo 0.75.0-DEV" />
-  <link rel="canonical" href="https://hackdewereld.nl/tags/">
+  <link rel="canonical" href="https://hackdewereld.nl/posts/0x06-threat-hunting-with-milad/">
 
   
 
@@ -32,7 +32,7 @@
 
   
   
-  <title>Tags | HackDeWereld</title>
+  <title>0x06 Threat Hunting with Milad | HackDeWereld</title>
 </head>
 
   <body>
@@ -181,7 +181,7 @@
       
       
       
-      <a href="/tags/" aria-current="page">
+      <a href="/tags/" >
         <svg class="bookmark-icon" aria-hidden="true" focusable="false" viewBox="0 0 40 50">
           <use xlink:href="#bookmark"></use>
         </svg>
@@ -275,33 +275,146 @@
         <div>
           
   <main id="main">
-    <h1>Tags</h1>
-    <ul class="patterns-list">
+    <h1>
+      <svg class="bookmark-icon" aria-hidden="true" viewBox="0 0 40 50" focusable="false">
+        <use xlink:href="#bookmark"></use>
+      </svg>
+      0x06 Threat Hunting with Milad
+    </h1>
+
+    <div class="date">
       
-        <li>
-          <h2>
-            <a href="/tags/meetup/">
+      
+      <strong aria-hidden="true">Publish date: </strong>Sep 17, 2020
+      
+        
+          <br>
+          <strong aria-hidden="true">Last updated: </strong>Sep 17, 2020
+        
+      
+    </div>
+
+    
+      <div class="tags">
+        <strong aria-hidden="true">Tags: </strong>
+        <ul aria-label="tags">
+          
+            <li>
               <svg class="tag-icon" aria-hidden="true" viewBox="0 0 177.16535 177.16535" focusable="false">
                 <use xlink:href="#tag"></use>
               </svg>
-              (6) meetup
-            </a>
-          </h2>
-        </li>
-      
-        <li>
-          <h2>
-            <a href="/tags/presentation/">
+              
+              <a href="https://hackdewereld.nl/tags/presentation/">presentation</a>
+            </li>
+          
+            <li>
               <svg class="tag-icon" aria-hidden="true" viewBox="0 0 177.16535 177.16535" focusable="false">
                 <use xlink:href="#tag"></use>
               </svg>
-              (5) presentation
-            </a>
-          </h2>
+              
+              <a href="https://hackdewereld.nl/tags/meetup/">meetup</a>
+            </li>
+          
+        </ul>
+      </div>
+    
+    
+    
+      
+
+  <nav class="toc" aria-labelledby="toc-heading">
+    <h2 id="toc-heading">Table of contents</h2>
+    <ol>
+      
+        <li>
+          
+          
+          
+          
+          <a href="#stuff-goes-wrong">
+            Stuff goes wrong
+          </a>
         </li>
       
-    </ul>
+        <li>
+          
+          
+          
+          
+          <a href="#but-other-stuff-goes-great">
+            But other stuff goes great!
+          </a>
+        </li>
+      
+        <li>
+          
+          
+          
+          
+          <a href="#milad-aslaner">
+            Milad Aslaner
+          </a>
+        </li>
+      
+        <li>
+          
+          
+          
+          
+          <a href="#box-walkthrough">
+            Box walkthrough
+          </a>
+        </li>
+      
+        <li>
+          
+          
+          
+          
+          <a href="#next-month">
+            Next Month
+          </a>
+        </li>
+      
+    </ol>
+  </nav>
+
+
+    
+
+    <p>We are halfway through our first year of existance! During the pandemic we have started a meetup and have been growing bigger every edition! At this point the meetup brings together about 50 people from over the dutch (and international) industry and enthousiasts that want to get started with hacking.</p>
+<h2 id="stuff-goes-wrong">Stuff goes wrong</h2>
+<p>Sometimes stuff just goes wrong. Last meetup the emails from meetup.com were blank when I mailed out the passwords to the meetup and this week it seems a number of guests did not receive the email or it was delivered to their spam. The meetup mail system is not a very reliable communication channel it seems.</p>
+<p>So for the next meetup I will attempt something different, more on that in a little bit, first what we did do.</p>
+<h2 id="but-other-stuff-goes-great">But other stuff goes great!</h2>
+<p>We now have over 100 members in our discord server! That is quite a milestone and it shows that it is a great place to hang out and meet new people.</p>
+<h2 id="milad-aslaner">Milad Aslaner</h2>
+<p>A few months back the wonderful Milad Aslaner from Microsoft (@MiladMSFT on twitter) agreed to come and give a presentation to our group. Yesterday was that day. He talked about the technological advances in the Threat Hunting space that Microsoft has been making.</p>
+<ul>
+<li>Azure Sentinel</li>
+<li>The combination of all the ATP products</li>
+<li>But most importantly a unified query language to connect all that data</li>
+</ul>
+<p>He ended up showing several examples of how you can construct Kusto Query Lanuage queries to retrieve data from various sources.</p>
+<p>The presentation, in full, is on our <a href="https://youtu.be/5Owkqum4%5Fnc">YouTube</a>.</p>
+<h2 id="box-walkthrough">Box walkthrough</h2>
+<p>After a short break our member @DutchPyro talked us through the box called Magic. It was a great walkthrough because many things went wrong and we got to watch him work through the issues, with a little help from the community!</p>
+<p>Afterwards we discusses several alternative ways of doing the box, from adding keys to <code>authorized_keys</code> and simply logging in through <code>ssh</code> to using it to do <code>port forwarding</code>. We also explored using the tool <code>chisel</code> to setup port forwarding to get access to the internal <code>mysql</code> database.</p>
+<p>The full video of the walkthrough is available on <a href="https://youtu.be/Na0Ig3FCJeU">YouTube</a>.</p>
+<h2 id="next-month">Next Month</h2>
+<p>First off; next month will feature a meetup takeover by our member @Danielyc. He will host a Capture The Flag event that is accessible to all levels. There is something for everybody, the ones that are getting started with hacking to seasoned pros!</p>
+<p>As most people choose to not use their webcam on our zoom meetings, which is very understandable, the meetups are mostly voice based and the video aspect of it is only really relevant to the presentations/walkthroughs.</p>
+<p>So my idea for next month is to use our already existing Discord platform and have a Meetup Voice Channel. For the presentation part a stream will be setup to YouTube that can be viewed by everybody, as the video sharing capability of Discord is limited to 50 attendees.</p>
+<p>So, come join us on Discord!</p>
+<center>
+<iframe src="https://discordapp.com/widget?id=692656367261188127&theme=dark" width="350" height="500" allowtransparency="true" frameborder="0" sandbox="allow-popups allow-popups-to-escape-sandbox allow-same-origin allow-scripts"></iframe>
+</center>
+
   </main>
+  <div id="disqus-container">
+  
+</div>
+
 
           <footer role="contentinfo">
   <div>

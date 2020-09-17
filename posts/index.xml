@@ -6,7 +6,17 @@
     <description>Recent content in Posts on HackDeWereld</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 20 Aug 2020 16:24:00 +0200</lastBuildDate><atom:link href="https://hackdewereld.nl/posts/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 17 Sep 2020 09:45:00 +0200</lastBuildDate><atom:link href="https://hackdewereld.nl/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>0x06 Threat Hunting with Milad</title>
+      <link>https://hackdewereld.nl/posts/0x06-threat-hunting-with-milad/</link>
+      <pubDate>Thu, 17 Sep 2020 09:45:00 +0200</pubDate>
+      
+      <guid>https://hackdewereld.nl/posts/0x06-threat-hunting-with-milad/</guid>
+      <description>We are halfway through our first year of existance! During the pandemic we have started a meetup and have been growing bigger every edition! At this point the meetup brings together about 50 people from over the dutch (and international) industry and enthousiasts that want to get started with hacking.
+Stuff goes wrong Sometimes stuff just goes wrong. Last meetup the emails from meetup.com were blank when I mailed out the passwords to the meetup and this week it seems a number of guests did not receive the email or it was delivered to their spam.</description>
+    </item>
+    
     <item>
       <title>0x05 HTB Content Creation</title>
       <link>https://hackdewereld.nl/posts/0x05-htb-content-creation/</link>
