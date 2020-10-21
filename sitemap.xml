@@ -3,17 +3,22 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://hackdewereld.nl/posts/0x07-ctf/</loc>
+    <lastmod>2020-10-21T22:26:00+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://hackdewereld.nl/posts/</loc>
+    <lastmod>2020-10-21T22:26:00+02:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://hackdewereld.nl/posts/0x06-threat-hunting-with-milad/</loc>
     <lastmod>2020-09-17T09:45:39+02:00</lastmod>
   </url>
   
   <url>
     <loc>https://hackdewereld.nl/tags/meetup/</loc>
-    <lastmod>2020-09-17T09:45:39+02:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://hackdewereld.nl/posts/</loc>
     <lastmod>2020-09-17T09:45:39+02:00</lastmod>
   </url>
   
