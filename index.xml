@@ -8,6 +8,16 @@
     <language>en-us</language>
     <lastBuildDate>Mon, 26 Jun 2017 18:27:58 +0100</lastBuildDate><atom:link href="https://hackdewereld.nl/index.xml" rel="self" type="application/rss+xml" />
     <item>
+      <title>0x08 Binary Exploitation</title>
+      <link>https://hackdewereld.nl/posts/0x08-binary-exploitation/</link>
+      <pubDate>Wed, 18 Nov 2020 22:29:00 +0100</pubDate>
+      
+      <guid>https://hackdewereld.nl/posts/0x08-binary-exploitation/</guid>
+      <description>This meetup was all about binary exploitation. Our community member Alexandru took us through Assembly, Shell Code and Buffer overflows. We looked at the basics of assemblies, the registers that you will commonly find and how a C program translates to assembly.
+After the presentation we had a small quiz. Just to do something different then listening to technical talks and to determine who should get some prizes. In the end we were able to give away 3 VIP passes and a 1 month Pro Labs subscription.</description>
+    </item>
+    
+    <item>
       <title>0x07 A CTF</title>
       <link>https://hackdewereld.nl/posts/0x07-ctf/</link>
       <pubDate>Wed, 21 Oct 2020 22:26:00 +0200</pubDate>
