@@ -3,6 +3,31 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://hackdewereld.nl/posts/0x0a-advent-of-ctf/</loc>
+    <lastmod>2021-01-25T21:01:54+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://hackdewereld.nl/tags/meetup/</loc>
+    <lastmod>2021-01-25T21:01:54+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://hackdewereld.nl/posts/</loc>
+    <lastmod>2021-01-25T21:01:54+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://hackdewereld.nl/tags/presentation/</loc>
+    <lastmod>2021-01-25T21:01:54+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://hackdewereld.nl/tags/</loc>
+    <lastmod>2021-01-25T21:01:54+01:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://hackdewereld.nl/posts/0x09-binary-exploitation/</loc>
     <lastmod>2020-12-19T12:32:00+01:00</lastmod>
   </url>
@@ -13,27 +38,7 @@
   </url>
   
   <url>
-    <loc>https://hackdewereld.nl/tags/meetup/</loc>
-    <lastmod>2020-12-19T12:32:00+01:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://hackdewereld.nl/posts/</loc>
-    <lastmod>2020-12-19T12:32:00+01:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://hackdewereld.nl/tags/</loc>
-    <lastmod>2020-12-19T12:32:00+01:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://hackdewereld.nl/posts/0x08-binary-exploitation/</loc>
-    <lastmod>2020-11-18T22:34:03+01:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://hackdewereld.nl/tags/presentation/</loc>
     <lastmod>2020-11-18T22:34:03+01:00</lastmod>
   </url>
   
@@ -89,7 +94,7 @@
   
   <url>
     <loc>https://hackdewereld.nl/</loc>
-    <lastmod>2020-12-19T12:32:00+01:00</lastmod>
+    <lastmod>2021-01-25T21:01:54+01:00</lastmod>
   </url>
   
   <url>

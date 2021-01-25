@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>demo on HackDeWereld</title>
+    <link>https://hackdewereld.nl/tags/demo/</link>
+    <description>Recent content in demo on HackDeWereld</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 19 Dec 2020 12:31:00 +0100</lastBuildDate><atom:link href="https://hackdewereld.nl/tags/demo/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>0x09 Omni</title>
+      <link>https://hackdewereld.nl/posts/0x09-binary-exploitation/</link>
+      <pubDate>Sat, 19 Dec 2020 12:31:00 +0100</pubDate>
+      
+      <guid>https://hackdewereld.nl/posts/0x09-binary-exploitation/</guid>
+      <description>The meetup is still growing! Just this week we passed 200 humans on our discord server. We have been very actively playing Advent of CTF and the discussions are very active. The members esp0xdeadbeef and JustRelax decided to sponsor the discord with a Boost, many thanks for that! Our member Jorian showed us his animation skills and created a server animation to go with the new boost status!
+The meetup had Ian Austin return.</description>
+    </item>
+    
+  </channel>
+</rss>

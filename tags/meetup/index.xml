@@ -6,7 +6,17 @@
     <description>Recent content in meetup on HackDeWereld</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 19 Dec 2020 12:31:00 +0100</lastBuildDate><atom:link href="https://hackdewereld.nl/tags/meetup/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 25 Jan 2021 21:01:00 +0100</lastBuildDate><atom:link href="https://hackdewereld.nl/tags/meetup/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>0x0a Advent of CTF</title>
+      <link>https://hackdewereld.nl/posts/0x0a-advent-of-ctf/</link>
+      <pubDate>Mon, 25 Jan 2021 21:01:00 +0100</pubDate>
+      
+      <guid>https://hackdewereld.nl/posts/0x0a-advent-of-ctf/</guid>
+      <description>The first meetup of the new year was also a very busy one. Almost 90 people RSVP&amp;rsquo;d to the event. The event is still being hosted on discord, with presentations (and anything requiring screen sharing) through YouTube, as discord can not handle such a significant load.
+Advent of CTF As most of the members of the meetup also participated in the Advent of CTF it was a much requested topic for this month&amp;rsquo;s meetup.</description>
+    </item>
+    
     <item>
       <title>0x09 Omni</title>
       <link>https://hackdewereld.nl/posts/0x09-binary-exploitation/</link>
