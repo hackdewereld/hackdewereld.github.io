@@ -6,7 +6,17 @@
     <description>Recent content in demo on HackDeWereld</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 19 Dec 2020 12:31:00 +0100</lastBuildDate><atom:link href="https://hackdewereld.nl/tags/demo/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 23 Feb 2021 10:39:00 +0100</lastBuildDate><atom:link href="https://hackdewereld.nl/tags/demo/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>0x0b Double active machines</title>
+      <link>https://hackdewereld.nl/posts/0x0b-double-active/</link>
+      <pubDate>Tue, 23 Feb 2021 10:39:00 +0100</pubDate>
+      
+      <guid>https://hackdewereld.nl/posts/0x0b-double-active/</guid>
+      <description>WOW! What a meetup. This time we had 2 active machines being demoed by 2 amazing presenters.
+Shaun / egotistical The first presentation was done by the one and only @egotistical. He has created many machines that many of us have tried. Today he showed how to work through his latest creation named Tenet. He explained the backstory, how he tried to build the machine around the movie with the same name and the many clues that lead up to the eventual ownage of the machine.</description>
+    </item>
+    
     <item>
       <title>0x09 Omni</title>
       <link>https://hackdewereld.nl/posts/0x09-binary-exploitation/</link>
