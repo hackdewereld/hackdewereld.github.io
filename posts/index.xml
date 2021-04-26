@@ -6,7 +6,27 @@
     <description>Recent content in Posts on HackDeWereld</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 23 Feb 2021 10:39:00 +0100</lastBuildDate><atom:link href="https://hackdewereld.nl/posts/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 26 Apr 2021 08:51:00 +0200</lastBuildDate><atom:link href="https://hackdewereld.nl/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>0x0d Anniversary</title>
+      <link>https://hackdewereld.nl/posts/0x0d-anniversary/</link>
+      <pubDate>Mon, 26 Apr 2021 08:51:00 +0200</pubDate>
+      
+      <guid>https://hackdewereld.nl/posts/0x0d-anniversary/</guid>
+      <description>We have existed for 1 whole year! Even though all the meetups have been done during the pandemic they all have been quite awesome to hold/present/look back at. We met so many nice people in our community that the effort of organizing the meetup is well worth it!
+At this meetup we had @egre55 and @makelaris join us, together with @SinisterMatrix to talk about HTB and answer questions from the audience.</description>
+    </item>
+    
+    <item>
+      <title>0x0c Delivery</title>
+      <link>https://hackdewereld.nl/posts/0x0c-delivery/</link>
+      <pubDate>Mon, 26 Apr 2021 08:49:00 +0200</pubDate>
+      
+      <guid>https://hackdewereld.nl/posts/0x0c-delivery/</guid>
+      <description>We walked through the steps to own Delivery. My wish for @T13nn3s to do more walkthroughs came true as he was kind enough to host this one as well.
+Recordings As the machines is active at this time the recordings of the meetup are held back. Once Delivery retires the recording will be made available.</description>
+    </item>
+    
     <item>
       <title>0x0b Double active machines</title>
       <link>https://hackdewereld.nl/posts/0x0b-double-active/</link>

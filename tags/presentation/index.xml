@@ -6,7 +6,17 @@
     <description>Recent content in presentation on HackDeWereld</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 25 Jan 2021 21:01:00 +0100</lastBuildDate><atom:link href="https://hackdewereld.nl/tags/presentation/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 26 Apr 2021 08:51:00 +0200</lastBuildDate><atom:link href="https://hackdewereld.nl/tags/presentation/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>0x0d Anniversary</title>
+      <link>https://hackdewereld.nl/posts/0x0d-anniversary/</link>
+      <pubDate>Mon, 26 Apr 2021 08:51:00 +0200</pubDate>
+      
+      <guid>https://hackdewereld.nl/posts/0x0d-anniversary/</guid>
+      <description>We have existed for 1 whole year! Even though all the meetups have been done during the pandemic they all have been quite awesome to hold/present/look back at. We met so many nice people in our community that the effort of organizing the meetup is well worth it!
+At this meetup we had @egre55 and @makelaris join us, together with @SinisterMatrix to talk about HTB and answer questions from the audience.</description>
+    </item>
+    
     <item>
       <title>0x0a Advent of CTF</title>
       <link>https://hackdewereld.nl/posts/0x0a-advent-of-ctf/</link>
