@@ -8,6 +8,26 @@
     <language>en-us</language>
     <lastBuildDate>Mon, 26 Jun 2017 18:27:58 +0100</lastBuildDate><atom:link href="https://hackdewereld.nl/index.xml" rel="self" type="application/rss+xml" />
     <item>
+      <title>0x0f A little bit of C</title>
+      <link>https://hackdewereld.nl/posts/0x0f-a-bit-of-c/</link>
+      <pubDate>Tue, 29 Jun 2021 11:39:00 +0200</pubDate>
+      
+      <guid>https://hackdewereld.nl/posts/0x0f-a-bit-of-c/</guid>
+      <description>Our community member @ctfl hosted part 1 of a 2 part C workshop. The workshop was aimed at beginners. The workshop was very well received by the participants.
+The next workshop will be held at the next meetup, 0x10.</description>
+    </item>
+    
+    <item>
+      <title>0x0e The best laid plans</title>
+      <link>https://hackdewereld.nl/posts/0x0e-best-laid-plans/</link>
+      <pubDate>Sat, 29 May 2021 11:39:00 +0200</pubDate>
+      
+      <guid>https://hackdewereld.nl/posts/0x0e-best-laid-plans/</guid>
+      <description>Sometimes your pland just doesn&amp;rsquo;t work. This time we were supposed to have Shaun come back to show us the TenetTwo machine, but at the last moment he was unable to make it.
+Luckily we had @sheeraz join us at the last possible moment to guide use through the retired machine called Heist. The walkthrough was done through the CTF platform and was done in a most excellent manner! Thank you @sheeraz for joining us at the very last moment.</description>
+    </item>
+    
+    <item>
       <title>0x0d Anniversary</title>
       <link>https://hackdewereld.nl/posts/0x0d-anniversary/</link>
       <pubDate>Mon, 26 Apr 2021 08:51:00 +0200</pubDate>

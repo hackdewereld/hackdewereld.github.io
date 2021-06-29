@@ -6,7 +6,17 @@
     <description>Recent content in demo on HackDeWereld</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 26 Apr 2021 08:49:00 +0200</lastBuildDate><atom:link href="https://hackdewereld.nl/tags/demo/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 29 May 2021 11:39:00 +0200</lastBuildDate><atom:link href="https://hackdewereld.nl/tags/demo/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>0x0e The best laid plans</title>
+      <link>https://hackdewereld.nl/posts/0x0e-best-laid-plans/</link>
+      <pubDate>Sat, 29 May 2021 11:39:00 +0200</pubDate>
+      
+      <guid>https://hackdewereld.nl/posts/0x0e-best-laid-plans/</guid>
+      <description>Sometimes your pland just doesn&amp;rsquo;t work. This time we were supposed to have Shaun come back to show us the TenetTwo machine, but at the last moment he was unable to make it.
+Luckily we had @sheeraz join us at the last possible moment to guide use through the retired machine called Heist. The walkthrough was done through the CTF platform and was done in a most excellent manner! Thank you @sheeraz for joining us at the very last moment.</description>
+    </item>
+    
     <item>
       <title>0x0c Delivery</title>
       <link>https://hackdewereld.nl/posts/0x0c-delivery/</link>
