@@ -6,7 +6,44 @@
     <description>Recent content in meetup on HackDeWereld</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 29 Jun 2021 11:39:00 +0200</lastBuildDate><atom:link href="https://hackdewereld.nl/tags/meetup/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 20 Oct 2021 18:39:00 +0200</lastBuildDate><atom:link href="https://hackdewereld.nl/tags/meetup/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>0x13 It is all safe!</title>
+      <link>https://hackdewereld.nl/posts/0x13-meetup/</link>
+      <pubDate>Wed, 20 Oct 2021 18:39:00 +0200</pubDate>
+      
+      <guid>https://hackdewereld.nl/posts/0x13-meetup/</guid>
+      <description>@DutchPyro hosted a walkthrough of Safe.</description>
+    </item>
+    
+    <item>
+      <title>0x12 BountyHunter</title>
+      <link>https://hackdewereld.nl/posts/0x12-meetup/</link>
+      <pubDate>Wed, 15 Sep 2021 18:39:00 +0200</pubDate>
+      
+      <guid>https://hackdewereld.nl/posts/0x12-meetup/</guid>
+      <description>@credmp and @gevuldecookie hosted a walkthrough of BountyHunter.</description>
+    </item>
+    
+    <item>
+      <title>0x11 Meetup / @Sheeraz</title>
+      <link>https://hackdewereld.nl/posts/0x11-meetup/</link>
+      <pubDate>Wed, 18 Aug 2021 18:39:00 +0200</pubDate>
+      
+      <guid>https://hackdewereld.nl/posts/0x11-meetup/</guid>
+      <description>@sheeraz was back presenting his walkthrough of Love.
+You can view the entire talk on YouTube.</description>
+    </item>
+    
+    <item>
+      <title>0x10 The C workshop continues</title>
+      <link>https://hackdewereld.nl/posts/0x10-meetup/</link>
+      <pubDate>Wed, 21 Jul 2021 11:39:00 +0200</pubDate>
+      
+      <guid>https://hackdewereld.nl/posts/0x10-meetup/</guid>
+      <description>Our community member @ctfl hosted part 2 of a 2 part C workshop. The workshop was aimed at beginners. The workshop was very well received by the participants.</description>
+    </item>
+    
     <item>
       <title>0x0f A little bit of C</title>
       <link>https://hackdewereld.nl/posts/0x0f-a-bit-of-c/</link>
