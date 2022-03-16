@@ -6,7 +6,46 @@
     <description>Recent content in Posts on HackDeWereld</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 20 Oct 2021 18:39:00 +0200</lastBuildDate><atom:link href="https://hackdewereld.nl/posts/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 16 Mar 2022 16:51:00 +0100</lastBuildDate><atom:link href="https://hackdewereld.nl/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>0x15 HTB Intelligence</title>
+      <link>https://hackdewereld.nl/posts/0x15-intelligence/</link>
+      <pubDate>Wed, 16 Mar 2022 16:51:00 +0100</pubDate>
+      
+      <guid>https://hackdewereld.nl/posts/0x15-intelligence/</guid>
+      <description>B00ts3c hosted a walkthrough of Intelligence.
+YouTube</description>
+    </item>
+    
+    <item>
+      <title>0x16 Cloud Security 101</title>
+      <link>https://hackdewereld.nl/posts/0x16-cloud-security/</link>
+      <pubDate>Wed, 16 Mar 2022 16:51:00 +0100</pubDate>
+      
+      <guid>https://hackdewereld.nl/posts/0x16-cloud-security/</guid>
+      <description>Ian Austin was back hosting a cloud security workshop.
+YouTube</description>
+    </item>
+    
+    <item>
+      <title>0x17 PinkDraconian</title>
+      <link>https://hackdewereld.nl/posts/0x17-pinkdraconian/</link>
+      <pubDate>Wed, 16 Mar 2022 16:51:00 +0100</pubDate>
+      
+      <guid>https://hackdewereld.nl/posts/0x17-pinkdraconian/</guid>
+      <description>We had the privilege of getting to know PinkDraconian and some XSS.
+YouTube</description>
+    </item>
+    
+    <item>
+      <title>0x14 HTB Forge</title>
+      <link>https://hackdewereld.nl/posts/0x14-forge/</link>
+      <pubDate>Wed, 16 Mar 2022 16:49:00 +0100</pubDate>
+      
+      <guid>https://hackdewereld.nl/posts/0x14-forge/</guid>
+      <description>We wanted to hold an on-premise event, but a lockdown prevented that. So last minute we switched to showing Forge as a machine.</description>
+    </item>
+    
     <item>
       <title>0x13 It is all safe!</title>
       <link>https://hackdewereld.nl/posts/0x13-meetup/</link>
