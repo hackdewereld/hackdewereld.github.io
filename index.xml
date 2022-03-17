@@ -8,6 +8,15 @@
     <language>en-us</language>
     <lastBuildDate>Mon, 26 Jun 2017 18:27:58 +0100</lastBuildDate><atom:link href="https://hackdewereld.nl/index.xml" rel="self" type="application/rss+xml" />
     <item>
+      <title>0x18 Reverse Engineering Workshop</title>
+      <link>https://hackdewereld.nl/posts/0x18-re-workshop/</link>
+      <pubDate>Thu, 17 Mar 2022 09:23:00 +0100</pubDate>
+      
+      <guid>https://hackdewereld.nl/posts/0x18-re-workshop/</guid>
+      <description>This time our community member Salp hosted a reverse engineering workshop. We went through static analysis and dynamic analysis to solve the old challenge &amp;ldquo;You can&amp;rsquo;t C me&amp;rdquo;. This challenge had a fake password and a small obfuscation technique applied. We solved this challenge using various tools and Salp explained what other tools are available on the market to work on similar challenges. We also discussed note taking during the process.</description>
+    </item>
+    
+    <item>
       <title>0x15 HTB Intelligence</title>
       <link>https://hackdewereld.nl/posts/0x15-intelligence/</link>
       <pubDate>Wed, 16 Mar 2022 16:51:00 +0100</pubDate>
