@@ -6,33 +6,35 @@
     <description>Recent content in Tags on HackDeWereld</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 16 Mar 2022 16:51:00 +0100</lastBuildDate><atom:link href="https://hackdewereld.nl/tags/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 22 Feb 2024 20:04:55 +0100</lastBuildDate>
+    <atom:link href="https://hackdewereld.nl/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>demo</title>
+      <title>Demo</title>
       <link>https://hackdewereld.nl/tags/demo/</link>
-      <pubDate>Wed, 16 Mar 2022 16:51:00 +0100</pubDate>
-      
+      <pubDate>Thu, 22 Feb 2024 16:49:00 +0100</pubDate>
       <guid>https://hackdewereld.nl/tags/demo/</guid>
       <description></description>
     </item>
-    
     <item>
-      <title>meetup</title>
+      <title>Meetup</title>
       <link>https://hackdewereld.nl/tags/meetup/</link>
-      <pubDate>Wed, 16 Mar 2022 16:51:00 +0100</pubDate>
-      
+      <pubDate>Thu, 22 Feb 2024 16:49:00 +0100</pubDate>
       <guid>https://hackdewereld.nl/tags/meetup/</guid>
       <description></description>
     </item>
-    
     <item>
-      <title>presentation</title>
+      <title>Sherlock</title>
+      <link>https://hackdewereld.nl/tags/sherlock/</link>
+      <pubDate>Thu, 22 Feb 2024 16:49:00 +0100</pubDate>
+      <guid>https://hackdewereld.nl/tags/sherlock/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Presentation</title>
       <link>https://hackdewereld.nl/tags/presentation/</link>
       <pubDate>Wed, 20 Oct 2021 18:39:00 +0200</pubDate>
-      
       <guid>https://hackdewereld.nl/tags/presentation/</guid>
       <description></description>
     </item>
-    
   </channel>
 </rss>

@@ -1,207 +1,159 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>meetup on HackDeWereld</title>
+    <title>Meetup on HackDeWereld</title>
     <link>https://hackdewereld.nl/tags/meetup/</link>
-    <description>Recent content in meetup on HackDeWereld</description>
+    <description>Recent content in Meetup on HackDeWereld</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 16 Mar 2022 16:51:00 +0100</lastBuildDate><atom:link href="https://hackdewereld.nl/tags/meetup/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 22 Feb 2024 20:04:55 +0100</lastBuildDate>
+    <atom:link href="https://hackdewereld.nl/tags/meetup/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>0x2F Sherlocks</title>
+      <link>https://hackdewereld.nl/posts/0x2f-almost-30/</link>
+      <pubDate>Thu, 22 Feb 2024 16:49:00 +0100</pubDate>
+      <guid>https://hackdewereld.nl/posts/0x2f-almost-30/</guid>
+      <description>So, it has been a while that something was posted here. Last night we had a great meetup, number 47 already. We discussed several Sherlocks and made some new friends.</description>
+    </item>
     <item>
       <title>0x15 HTB Intelligence</title>
       <link>https://hackdewereld.nl/posts/0x15-intelligence/</link>
       <pubDate>Wed, 16 Mar 2022 16:51:00 +0100</pubDate>
-      
       <guid>https://hackdewereld.nl/posts/0x15-intelligence/</guid>
-      <description>B00ts3c hosted a walkthrough of Intelligence.
-YouTube</description>
+      <description>B00ts3c hosted a walkthrough of Intelligence.&#xA;YouTube</description>
     </item>
-    
     <item>
       <title>0x14 HTB Forge</title>
       <link>https://hackdewereld.nl/posts/0x14-forge/</link>
       <pubDate>Wed, 16 Mar 2022 16:49:00 +0100</pubDate>
-      
       <guid>https://hackdewereld.nl/posts/0x14-forge/</guid>
       <description>We wanted to hold an on-premise event, but a lockdown prevented that. So last minute we switched to showing Forge as a machine.</description>
     </item>
-    
     <item>
       <title>0x13 It is all safe!</title>
       <link>https://hackdewereld.nl/posts/0x13-meetup/</link>
       <pubDate>Wed, 20 Oct 2021 18:39:00 +0200</pubDate>
-      
       <guid>https://hackdewereld.nl/posts/0x13-meetup/</guid>
       <description>@DutchPyro hosted a walkthrough of Safe.</description>
     </item>
-    
     <item>
       <title>0x12 BountyHunter</title>
       <link>https://hackdewereld.nl/posts/0x12-meetup/</link>
       <pubDate>Wed, 15 Sep 2021 18:39:00 +0200</pubDate>
-      
       <guid>https://hackdewereld.nl/posts/0x12-meetup/</guid>
       <description>@credmp and @gevuldecookie hosted a walkthrough of BountyHunter.</description>
     </item>
-    
     <item>
       <title>0x11 Meetup / @Sheeraz</title>
       <link>https://hackdewereld.nl/posts/0x11-meetup/</link>
       <pubDate>Wed, 18 Aug 2021 18:39:00 +0200</pubDate>
-      
       <guid>https://hackdewereld.nl/posts/0x11-meetup/</guid>
-      <description>@sheeraz was back presenting his walkthrough of Love.
-You can view the entire talk on YouTube.</description>
+      <description>@sheeraz was back presenting his walkthrough of Love.&#xA;You can view the entire talk on YouTube.</description>
     </item>
-    
     <item>
       <title>0x10 The C workshop continues</title>
       <link>https://hackdewereld.nl/posts/0x10-meetup/</link>
       <pubDate>Wed, 21 Jul 2021 11:39:00 +0200</pubDate>
-      
       <guid>https://hackdewereld.nl/posts/0x10-meetup/</guid>
       <description>Our community member @ctfl hosted part 2 of a 2 part C workshop. The workshop was aimed at beginners. The workshop was very well received by the participants.</description>
     </item>
-    
     <item>
       <title>0x0f A little bit of C</title>
       <link>https://hackdewereld.nl/posts/0x0f-a-bit-of-c/</link>
       <pubDate>Tue, 29 Jun 2021 11:39:00 +0200</pubDate>
-      
       <guid>https://hackdewereld.nl/posts/0x0f-a-bit-of-c/</guid>
-      <description>Our community member @ctfl hosted part 1 of a 2 part C workshop. The workshop was aimed at beginners. The workshop was very well received by the participants.
-The next workshop will be held at the next meetup, 0x10.</description>
+      <description>Our community member @ctfl hosted part 1 of a 2 part C workshop. The workshop was aimed at beginners. The workshop was very well received by the participants.&#xA;The next workshop will be held at the next meetup, 0x10.</description>
     </item>
-    
     <item>
       <title>0x0e The best laid plans</title>
       <link>https://hackdewereld.nl/posts/0x0e-best-laid-plans/</link>
       <pubDate>Sat, 29 May 2021 11:39:00 +0200</pubDate>
-      
       <guid>https://hackdewereld.nl/posts/0x0e-best-laid-plans/</guid>
-      <description>Sometimes your pland just doesn&amp;rsquo;t work. This time we were supposed to have Shaun come back to show us the TenetTwo machine, but at the last moment he was unable to make it.
-Luckily we had @sheeraz join us at the last possible moment to guide use through the retired machine called Heist. The walkthrough was done through the CTF platform and was done in a most excellent manner! Thank you @sheeraz for joining us at the very last moment.</description>
+      <description>Sometimes your pland just doesn&amp;rsquo;t work. This time we were supposed to have Shaun come back to show us the TenetTwo machine, but at the last moment he was unable to make it.&#xA;Luckily we had @sheeraz join us at the last possible moment to guide use through the retired machine called Heist. The walkthrough was done through the CTF platform and was done in a most excellent manner! Thank you @sheeraz for joining us at the very last moment.</description>
     </item>
-    
     <item>
       <title>0x0d Anniversary</title>
       <link>https://hackdewereld.nl/posts/0x0d-anniversary/</link>
       <pubDate>Mon, 26 Apr 2021 08:51:00 +0200</pubDate>
-      
       <guid>https://hackdewereld.nl/posts/0x0d-anniversary/</guid>
-      <description>We have existed for 1 whole year! Even though all the meetups have been done during the pandemic they all have been quite awesome to hold/present/look back at. We met so many nice people in our community that the effort of organizing the meetup is well worth it!
-At this meetup we had @egre55 and @makelaris join us, together with @SinisterMatrix to talk about HTB and answer questions from the audience.</description>
+      <description>We have existed for 1 whole year! Even though all the meetups have been done during the pandemic they all have been quite awesome to hold/present/look back at. We met so many nice people in our community that the effort of organizing the meetup is well worth it!&#xA;At this meetup we had @egre55 and @makelaris join us, together with @SinisterMatrix to talk about HTB and answer questions from the audience.</description>
     </item>
-    
     <item>
       <title>0x0c Delivery</title>
       <link>https://hackdewereld.nl/posts/0x0c-delivery/</link>
       <pubDate>Mon, 26 Apr 2021 08:49:00 +0200</pubDate>
-      
       <guid>https://hackdewereld.nl/posts/0x0c-delivery/</guid>
-      <description>We walked through the steps to own Delivery. My wish for @T13nn3s to do more walkthroughs came true as he was kind enough to host this one as well.
-Recordings As the machines is active at this time the recordings of the meetup are held back. Once Delivery retires the recording will be made available.</description>
+      <description>We walked through the steps to own Delivery. My wish for @T13nn3s to do more walkthroughs came true as he was kind enough to host this one as well.&#xA;Recordings As the machines is active at this time the recordings of the meetup are held back. Once Delivery retires the recording will be made available.</description>
     </item>
-    
     <item>
       <title>0x0b Double active machines</title>
       <link>https://hackdewereld.nl/posts/0x0b-double-active/</link>
       <pubDate>Tue, 23 Feb 2021 10:39:00 +0100</pubDate>
-      
       <guid>https://hackdewereld.nl/posts/0x0b-double-active/</guid>
-      <description>WOW! What a meetup. This time we had 2 active machines being demoed by 2 amazing presenters.
-Shaun / egotistical The first presentation was done by the one and only @egotistical. He has created many machines that many of us have tried. Today he showed how to work through his latest creation named Tenet. He explained the backstory, how he tried to build the machine around the movie with the same name and the many clues that lead up to the eventual ownage of the machine.</description>
+      <description>WOW! What a meetup. This time we had 2 active machines being demoed by 2 amazing presenters.&#xA;Shaun / egotistical The first presentation was done by the one and only @egotistical. He has created many machines that many of us have tried. Today he showed how to work through his latest creation named Tenet. He explained the backstory, how he tried to build the machine around the movie with the same name and the many clues that lead up to the eventual ownage of the machine.</description>
     </item>
-    
     <item>
       <title>0x0a Advent of CTF</title>
       <link>https://hackdewereld.nl/posts/0x0a-advent-of-ctf/</link>
       <pubDate>Mon, 25 Jan 2021 21:01:00 +0100</pubDate>
-      
       <guid>https://hackdewereld.nl/posts/0x0a-advent-of-ctf/</guid>
-      <description>The first meetup of the new year was also a very busy one. Almost 90 people RSVP&amp;rsquo;d to the event. The event is still being hosted on discord, with presentations (and anything requiring screen sharing) through YouTube, as discord can not handle such a significant load.
-Advent of CTF As most of the members of the meetup also participated in the Advent of CTF it was a much requested topic for this month&amp;rsquo;s meetup.</description>
+      <description>The first meetup of the new year was also a very busy one. Almost 90 people RSVP&amp;rsquo;d to the event. The event is still being hosted on discord, with presentations (and anything requiring screen sharing) through YouTube, as discord can not handle such a significant load.&#xA;Advent of CTF As most of the members of the meetup also participated in the Advent of CTF it was a much requested topic for this month&amp;rsquo;s meetup.</description>
     </item>
-    
     <item>
       <title>0x09 Omni</title>
       <link>https://hackdewereld.nl/posts/0x09-binary-exploitation/</link>
       <pubDate>Sat, 19 Dec 2020 12:31:00 +0100</pubDate>
-      
       <guid>https://hackdewereld.nl/posts/0x09-binary-exploitation/</guid>
-      <description>The meetup is still growing! Just this week we passed 200 humans on our discord server. We have been very actively playing Advent of CTF and the discussions are very active. The members esp0xdeadbeef and JustRelax decided to sponsor the discord with a Boost, many thanks for that! Our member Jorian showed us his animation skills and created a server animation to go with the new boost status!
-The meetup had Ian Austin return.</description>
+      <description>The meetup is still growing! Just this week we passed 200 humans on our discord server. We have been very actively playing Advent of CTF and the discussions are very active. The members esp0xdeadbeef and JustRelax decided to sponsor the discord with a Boost, many thanks for that! Our member Jorian showed us his animation skills and created a server animation to go with the new boost status!&#xA;The meetup had Ian Austin return.</description>
     </item>
-    
     <item>
       <title>0x08 Binary Exploitation</title>
       <link>https://hackdewereld.nl/posts/0x08-binary-exploitation/</link>
       <pubDate>Wed, 18 Nov 2020 22:29:00 +0100</pubDate>
-      
       <guid>https://hackdewereld.nl/posts/0x08-binary-exploitation/</guid>
-      <description>This meetup was all about binary exploitation. Our community member Alexandru took us through Assembly, Shell Code and Buffer overflows. We looked at the basics of assemblies, the registers that you will commonly find and how a C program translates to assembly.
-After the presentation we had a small quiz. Just to do something different then listening to technical talks and to determine who should get some prizes. In the end we were able to give away 3 VIP passes and a 1 month Pro Labs subscription.</description>
+      <description>This meetup was all about binary exploitation. Our community member Alexandru took us through Assembly, Shell Code and Buffer overflows. We looked at the basics of assemblies, the registers that you will commonly find and how a C program translates to assembly.&#xA;After the presentation we had a small quiz. Just to do something different then listening to technical talks and to determine who should get some prizes. In the end we were able to give away 3 VIP passes and a 1 month Pro Labs subscription.</description>
     </item>
-    
     <item>
       <title>0x06 Threat Hunting with Milad</title>
       <link>https://hackdewereld.nl/posts/0x06-threat-hunting-with-milad/</link>
       <pubDate>Thu, 17 Sep 2020 09:45:00 +0200</pubDate>
-      
       <guid>https://hackdewereld.nl/posts/0x06-threat-hunting-with-milad/</guid>
-      <description>We are halfway through our first year of existance! During the pandemic we have started a meetup and have been growing bigger every edition! At this point the meetup brings together about 50 people from over the dutch (and international) industry and enthousiasts that want to get started with hacking.
-Stuff goes wrong Sometimes stuff just goes wrong. Last meetup the emails from meetup.com were blank when I mailed out the passwords to the meetup and this week it seems a number of guests did not receive the email or it was delivered to their spam.</description>
+      <description>We are halfway through our first year of existance! During the pandemic we have started a meetup and have been growing bigger every edition! At this point the meetup brings together about 50 people from over the dutch (and international) industry and enthousiasts that want to get started with hacking.&#xA;Stuff goes wrong Sometimes stuff just goes wrong. Last meetup the emails from meetup.com were blank when I mailed out the passwords to the meetup and this week it seems a number of guests did not receive the email or it was delivered to their spam.</description>
     </item>
-    
     <item>
       <title>0x05 HTB Content Creation</title>
       <link>https://hackdewereld.nl/posts/0x05-htb-content-creation/</link>
       <pubDate>Thu, 20 Aug 2020 16:24:00 +0200</pubDate>
-      
       <guid>https://hackdewereld.nl/posts/0x05-htb-content-creation/</guid>
-      <description>Vacation time is over, but we are still all at home due to the Corona Virus. This does not stop us from having yet another great meetup! 45 people gathered to listen to a great talk / Q&amp;amp;A and competed in a game of trivia with amazing prizes. The night was closed out with the traditional reading of a Miffy story.
-Ian Austin / egre55   Ian talked to us about the thoughts behind content development at Hack The Box.</description>
+      <description>Vacation time is over, but we are still all at home due to the Corona Virus. This does not stop us from having yet another great meetup! 45 people gathered to listen to a great talk / Q&amp;amp;A and competed in a game of trivia with amazing prizes. The night was closed out with the traditional reading of a Miffy story.&#xA;Ian Austin / egre55 Ian talked to us about the thoughts behind content development at Hack The Box.</description>
     </item>
-    
     <item>
       <title>0x04 CVE hunting, Queries and Miffy</title>
       <link>https://hackdewereld.nl/posts/0x04-cve-queries-miffy/</link>
       <pubDate>Wed, 15 Jul 2020 23:10:00 +0200</pubDate>
-      
       <guid>https://hackdewereld.nl/posts/0x04-cve-queries-miffy/</guid>
-      <description>The July meetup is a wrap! Our 4th corona time online meetup was another great success. We had 45 participants showing up to listen to a great talk about CVE hunting, hacking along with one of the medium difficulty machines and finishing off with the reading of Miffy at the Zoo.
-CVE Hunting Melvin gave his first public presentation today. He just finished his OSWE certification and in the process found a CVE in an open source project.</description>
+      <description>The July meetup is a wrap! Our 4th corona time online meetup was another great success. We had 45 participants showing up to listen to a great talk about CVE hunting, hacking along with one of the medium difficulty machines and finishing off with the reading of Miffy at the Zoo.&#xA;CVE Hunting Melvin gave his first public presentation today. He just finished his OSWE certification and in the process found a CVE in an open source project.</description>
     </item>
-    
     <item>
       <title>0x03 And we start our journey</title>
       <link>https://hackdewereld.nl/posts/0x03-we-start-our-journey/</link>
       <pubDate>Wed, 17 Jun 2020 22:43:00 +0200</pubDate>
-      
       <guid>https://hackdewereld.nl/posts/0x03-we-start-our-journey/</guid>
-      <description>The June meetup is a wrap! Our community is growing and we are getting to know each other quite well. A very cool thing to see is that the same people keep showing up, most have been around since the 1st meetup back in April!
-The meetup started off with a presentation by Leandro (ceso). After passing his OSCP certification last month I asked him to share some of his thoughts on what you should do to get started.</description>
+      <description>The June meetup is a wrap! Our community is growing and we are getting to know each other quite well. A very cool thing to see is that the same people keep showing up, most have been around since the 1st meetup back in April!&#xA;The meetup started off with a presentation by Leandro (ceso). After passing his OSCP certification last month I asked him to share some of his thoughts on what you should do to get started.</description>
     </item>
-    
     <item>
       <title>0x02 Just Enough Reverse Engineering</title>
       <link>https://hackdewereld.nl/posts/just-enough-reverse-engineering/</link>
       <pubDate>Wed, 20 May 2020 11:01:00 +0200</pubDate>
-      
       <guid>https://hackdewereld.nl/posts/just-enough-reverse-engineering/</guid>
-      <description>We had our 2nd meetup last night. Again a large group of Hack The Box friends showed up and we had a great time! We hit a milestone just before the meeting with a whopping 300 members in our Hack The Box NL group on meetup.com.
-The theme for the meetup was Reverse Engineering. There was a presentation by Arjen on getting started with the reverse engineering challenges on Hack The Box.</description>
+      <description>We had our 2nd meetup last night. Again a large group of Hack The Box friends showed up and we had a great time! We hit a milestone just before the meeting with a whopping 300 members in our Hack The Box NL group on meetup.com.&#xA;The theme for the meetup was Reverse Engineering. There was a presentation by Arjen on getting started with the reverse engineering challenges on Hack The Box.</description>
     </item>
-    
     <item>
       <title>The first Wednesday Hackday meetup</title>
       <link>https://hackdewereld.nl/posts/first-meetup/</link>
       <pubDate>Thu, 16 Apr 2020 10:25:00 +0200</pubDate>
-      
       <guid>https://hackdewereld.nl/posts/first-meetup/</guid>
-      <description>Last night we had our first official Wednesday Hackday meetup. It was a great success with 25 people showing up to learn about Hack The Box and hacking in general. The meetup was Virtual due to the Corona Measures in place across the country.
-The meetup started with some introductions and a getting started message by Sotiria from Hack The Box. It is great to be part of the Hack The Box family of meetups.</description>
+      <description>Last night we had our first official Wednesday Hackday meetup. It was a great success with 25 people showing up to learn about Hack The Box and hacking in general. The meetup was Virtual due to the Corona Measures in place across the country.&#xA;The meetup started with some introductions and a getting started message by Sotiria from Hack The Box. It is great to be part of the Hack The Box family of meetups.</description>
     </item>
-    
   </channel>
 </rss>
