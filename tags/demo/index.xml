@@ -2,59 +2,59 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Demo on HackDeWereld</title>
-    <link>http://localhost:1313/tags/demo/</link>
+    <link>https://hackdewereld.nl/tags/demo/</link>
     <description>Recent content in Demo on HackDeWereld</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Thu, 22 Feb 2024 20:04:55 +0100</lastBuildDate>
-    <atom:link href="http://localhost:1313/tags/demo/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://hackdewereld.nl/tags/demo/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>0x2F Sherlocks</title>
-      <link>http://localhost:1313/posts/0x2f-almost-30/</link>
+      <link>https://hackdewereld.nl/posts/0x2f-almost-30/</link>
       <pubDate>Thu, 22 Feb 2024 16:49:00 +0100</pubDate>
-      <guid>http://localhost:1313/posts/0x2f-almost-30/</guid>
+      <guid>https://hackdewereld.nl/posts/0x2f-almost-30/</guid>
       <description>So, it has been a while that something was posted here. Last night we had a great meetup, number 47 already. We discussed several Sherlocks and made some new friends.</description>
     </item>
     <item>
       <title>0x15 HTB Intelligence</title>
-      <link>http://localhost:1313/posts/0x15-intelligence/</link>
+      <link>https://hackdewereld.nl/posts/0x15-intelligence/</link>
       <pubDate>Wed, 16 Mar 2022 16:51:00 +0100</pubDate>
-      <guid>http://localhost:1313/posts/0x15-intelligence/</guid>
+      <guid>https://hackdewereld.nl/posts/0x15-intelligence/</guid>
       <description>B00ts3c hosted a walkthrough of Intelligence.&#xA;YouTube</description>
     </item>
     <item>
       <title>0x14 HTB Forge</title>
-      <link>http://localhost:1313/posts/0x14-forge/</link>
+      <link>https://hackdewereld.nl/posts/0x14-forge/</link>
       <pubDate>Wed, 16 Mar 2022 16:49:00 +0100</pubDate>
-      <guid>http://localhost:1313/posts/0x14-forge/</guid>
+      <guid>https://hackdewereld.nl/posts/0x14-forge/</guid>
       <description>We wanted to hold an on-premise event, but a lockdown prevented that. So last minute we switched to showing Forge as a machine.</description>
     </item>
     <item>
       <title>0x0e The best laid plans</title>
-      <link>http://localhost:1313/posts/0x0e-best-laid-plans/</link>
+      <link>https://hackdewereld.nl/posts/0x0e-best-laid-plans/</link>
       <pubDate>Sat, 29 May 2021 11:39:00 +0200</pubDate>
-      <guid>http://localhost:1313/posts/0x0e-best-laid-plans/</guid>
+      <guid>https://hackdewereld.nl/posts/0x0e-best-laid-plans/</guid>
       <description>Sometimes your pland just doesn&amp;rsquo;t work. This time we were supposed to have Shaun come back to show us the TenetTwo machine, but at the last moment he was unable to make it.&#xA;Luckily we had @sheeraz join us at the last possible moment to guide use through the retired machine called Heist. The walkthrough was done through the CTF platform and was done in a most excellent manner! Thank you @sheeraz for joining us at the very last moment.</description>
     </item>
     <item>
       <title>0x0c Delivery</title>
-      <link>http://localhost:1313/posts/0x0c-delivery/</link>
+      <link>https://hackdewereld.nl/posts/0x0c-delivery/</link>
       <pubDate>Mon, 26 Apr 2021 08:49:00 +0200</pubDate>
-      <guid>http://localhost:1313/posts/0x0c-delivery/</guid>
+      <guid>https://hackdewereld.nl/posts/0x0c-delivery/</guid>
       <description>We walked through the steps to own Delivery. My wish for @T13nn3s to do more walkthroughs came true as he was kind enough to host this one as well.&#xA;Recordings As the machines is active at this time the recordings of the meetup are held back. Once Delivery retires the recording will be made available.</description>
     </item>
     <item>
       <title>0x0b Double active machines</title>
-      <link>http://localhost:1313/posts/0x0b-double-active/</link>
+      <link>https://hackdewereld.nl/posts/0x0b-double-active/</link>
       <pubDate>Tue, 23 Feb 2021 10:39:00 +0100</pubDate>
-      <guid>http://localhost:1313/posts/0x0b-double-active/</guid>
+      <guid>https://hackdewereld.nl/posts/0x0b-double-active/</guid>
       <description>WOW! What a meetup. This time we had 2 active machines being demoed by 2 amazing presenters.&#xA;Shaun / egotistical The first presentation was done by the one and only @egotistical. He has created many machines that many of us have tried. Today he showed how to work through his latest creation named Tenet. He explained the backstory, how he tried to build the machine around the movie with the same name and the many clues that lead up to the eventual ownage of the machine.</description>
     </item>
     <item>
       <title>0x09 Omni</title>
-      <link>http://localhost:1313/posts/0x09-binary-exploitation/</link>
+      <link>https://hackdewereld.nl/posts/0x09-binary-exploitation/</link>
       <pubDate>Sat, 19 Dec 2020 12:31:00 +0100</pubDate>
-      <guid>http://localhost:1313/posts/0x09-binary-exploitation/</guid>
+      <guid>https://hackdewereld.nl/posts/0x09-binary-exploitation/</guid>
       <description>The meetup is still growing! Just this week we passed 200 humans on our discord server. We have been very actively playing Advent of CTF and the discussions are very active. The members esp0xdeadbeef and JustRelax decided to sponsor the discord with a Boost, many thanks for that! Our member Jorian showed us his animation skills and created a server animation to go with the new boost status!&#xA;The meetup had Ian Austin return.</description>
     </item>
   </channel>
