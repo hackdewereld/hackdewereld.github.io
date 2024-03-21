@@ -2,112 +2,114 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://hackdewereld.nl/posts/0x2f-almost-30/</loc>
+    <loc>http://localhost:1313/posts/0x2f-almost-30/</loc>
     <lastmod>2024-02-22T20:04:55+01:00</lastmod>
   </url><url>
-    <loc>https://hackdewereld.nl/tags/demo/</loc>
+    <loc>http://localhost:1313/tags/demo/</loc>
     <lastmod>2024-02-22T20:04:55+01:00</lastmod>
   </url><url>
-    <loc>https://hackdewereld.nl/tags/meetup/</loc>
+    <loc>http://localhost:1313/tags/meetup/</loc>
     <lastmod>2024-02-22T20:04:55+01:00</lastmod>
   </url><url>
-    <loc>https://hackdewereld.nl/posts/</loc>
+    <loc>http://localhost:1313/posts/</loc>
     <lastmod>2024-02-22T20:04:55+01:00</lastmod>
   </url><url>
-    <loc>https://hackdewereld.nl/tags/sherlock/</loc>
+    <loc>http://localhost:1313/tags/sherlock/</loc>
     <lastmod>2024-02-22T20:04:55+01:00</lastmod>
   </url><url>
-    <loc>https://hackdewereld.nl/tags/</loc>
+    <loc>http://localhost:1313/tags/</loc>
     <lastmod>2024-02-22T20:04:55+01:00</lastmod>
   </url><url>
-    <loc>https://hackdewereld.nl/posts/0x18-re-workshop/</loc>
+    <loc>http://localhost:1313/posts/0x18-re-workshop/</loc>
     <lastmod>2022-03-17T09:24:10+01:00</lastmod>
   </url><url>
-    <loc>https://hackdewereld.nl/posts/0x15-intelligence/</loc>
+    <loc>http://localhost:1313/posts/0x15-intelligence/</loc>
     <lastmod>2022-03-16T16:52:11+01:00</lastmod>
   </url><url>
-    <loc>https://hackdewereld.nl/posts/0x16-cloud-security/</loc>
+    <loc>http://localhost:1313/posts/0x16-cloud-security/</loc>
     <lastmod>2022-03-16T16:52:11+01:00</lastmod>
   </url><url>
-    <loc>https://hackdewereld.nl/posts/0x17-pinkdraconian/</loc>
+    <loc>http://localhost:1313/posts/0x17-pinkdraconian/</loc>
     <lastmod>2022-03-16T16:52:11+01:00</lastmod>
   </url><url>
-    <loc>https://hackdewereld.nl/posts/0x14-forge/</loc>
+    <loc>http://localhost:1313/posts/0x14-forge/</loc>
     <lastmod>2022-03-16T16:52:11+01:00</lastmod>
   </url><url>
-    <loc>https://hackdewereld.nl/posts/0x13-meetup/</loc>
+    <loc>http://localhost:1313/posts/0x13-meetup/</loc>
     <lastmod>2021-11-12T16:28:21+01:00</lastmod>
   </url><url>
-    <loc>https://hackdewereld.nl/tags/presentation/</loc>
+    <loc>http://localhost:1313/tags/presentation/</loc>
     <lastmod>2021-11-12T16:28:21+01:00</lastmod>
   </url><url>
-    <loc>https://hackdewereld.nl/posts/0x12-meetup/</loc>
+    <loc>http://localhost:1313/posts/0x12-meetup/</loc>
     <lastmod>2021-11-12T16:28:21+01:00</lastmod>
   </url><url>
-    <loc>https://hackdewereld.nl/posts/0x11-meetup/</loc>
+    <loc>http://localhost:1313/posts/0x11-meetup/</loc>
     <lastmod>2021-11-12T16:28:21+01:00</lastmod>
   </url><url>
-    <loc>https://hackdewereld.nl/posts/0x10-meetup/</loc>
+    <loc>http://localhost:1313/posts/0x10-meetup/</loc>
     <lastmod>2021-11-12T16:28:21+01:00</lastmod>
   </url><url>
-    <loc>https://hackdewereld.nl/posts/0x0f-a-bit-of-c/</loc>
+    <loc>http://localhost:1313/posts/0x0f-a-bit-of-c/</loc>
     <lastmod>2021-06-29T11:41:15+02:00</lastmod>
   </url><url>
-    <loc>https://hackdewereld.nl/posts/0x0e-best-laid-plans/</loc>
+    <loc>http://localhost:1313/posts/0x0e-best-laid-plans/</loc>
     <lastmod>2021-06-29T11:41:15+02:00</lastmod>
   </url><url>
-    <loc>https://hackdewereld.nl/posts/0x0d-anniversary/</loc>
+    <loc>http://localhost:1313/posts/0x0d-anniversary/</loc>
     <lastmod>2021-04-26T08:51:59+02:00</lastmod>
   </url><url>
-    <loc>https://hackdewereld.nl/posts/0x0c-delivery/</loc>
+    <loc>http://localhost:1313/posts/0x0c-delivery/</loc>
     <lastmod>2021-04-26T08:51:59+02:00</lastmod>
   </url><url>
-    <loc>https://hackdewereld.nl/posts/0x0b-double-active/</loc>
+    <loc>http://localhost:1313/posts/0x0b-double-active/</loc>
     <lastmod>2021-02-23T10:40:06+01:00</lastmod>
   </url><url>
-    <loc>https://hackdewereld.nl/posts/0x0a-advent-of-ctf/</loc>
+    <loc>http://localhost:1313/posts/0x0a-advent-of-ctf/</loc>
     <lastmod>2021-04-26T08:51:59+02:00</lastmod>
   </url><url>
-    <loc>https://hackdewereld.nl/posts/0x09-binary-exploitation/</loc>
+    <loc>http://localhost:1313/posts/0x09-binary-exploitation/</loc>
     <lastmod>2020-12-19T12:32:00+01:00</lastmod>
   </url><url>
-    <loc>https://hackdewereld.nl/posts/0x08-binary-exploitation/</loc>
+    <loc>http://localhost:1313/posts/0x08-binary-exploitation/</loc>
     <lastmod>2020-11-18T22:34:03+01:00</lastmod>
   </url><url>
-    <loc>https://hackdewereld.nl/posts/0x07-ctf/</loc>
+    <loc>http://localhost:1313/posts/0x07-ctf/</loc>
     <lastmod>2020-10-21T22:27:32+02:00</lastmod>
   </url><url>
-    <loc>https://hackdewereld.nl/posts/0x06-threat-hunting-with-milad/</loc>
+    <loc>http://localhost:1313/posts/0x06-threat-hunting-with-milad/</loc>
     <lastmod>2020-09-17T09:45:39+02:00</lastmod>
   </url><url>
-    <loc>https://hackdewereld.nl/posts/0x05-htb-content-creation/</loc>
+    <loc>http://localhost:1313/posts/0x05-htb-content-creation/</loc>
     <lastmod>2020-08-20T16:27:08+02:00</lastmod>
   </url><url>
-    <loc>https://hackdewereld.nl/posts/0x04-cve-queries-miffy/</loc>
+    <loc>http://localhost:1313/posts/0x04-cve-queries-miffy/</loc>
     <lastmod>2020-07-15T23:10:41+02:00</lastmod>
   </url><url>
-    <loc>https://hackdewereld.nl/codeofconduct/</loc>
+    <loc>http://localhost:1313/codeofconduct/</loc>
     <lastmod>2020-09-10T21:52:32+02:00</lastmod>
   </url><url>
-    <loc>https://hackdewereld.nl/modguide/</loc>
+    <loc>http://localhost:1313/modguide/</loc>
     <lastmod>2020-09-10T21:15:51+02:00</lastmod>
   </url><url>
-    <loc>https://hackdewereld.nl/posts/0x03-we-start-our-journey/</loc>
+    <loc>http://localhost:1313/posts/0x03-we-start-our-journey/</loc>
     <lastmod>2020-07-15T23:08:30+02:00</lastmod>
   </url><url>
-    <loc>https://hackdewereld.nl/posts/just-enough-reverse-engineering/</loc>
+    <loc>http://localhost:1313/posts/just-enough-reverse-engineering/</loc>
     <lastmod>2020-05-21T08:34:47+02:00</lastmod>
   </url><url>
-    <loc>https://hackdewereld.nl/posts/first-meetup/</loc>
+    <loc>http://localhost:1313/posts/first-meetup/</loc>
     <lastmod>2020-04-19T22:27:33+02:00</lastmod>
   </url><url>
-    <loc>https://hackdewereld.nl/about/</loc>
+    <loc>http://localhost:1313/about/</loc>
     <lastmod>2020-04-19T22:27:33+02:00</lastmod>
   </url><url>
-    <loc>https://hackdewereld.nl/</loc>
+    <loc>http://localhost:1313/</loc>
     <lastmod>2024-02-22T20:04:55+01:00</lastmod>
   </url><url>
-    <loc>https://hackdewereld.nl/discord/</loc>
+    <loc>http://localhost:1313/discord/</loc>
     <lastmod>2020-09-17T09:45:39+02:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/posts/0x30-four-years-complete/</loc>
   </url>
 </urlset>
